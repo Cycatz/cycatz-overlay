@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+<repo priority="50" status="unofficial">
+	<name>cycatz-overlay</name>
+	<description>Cycatz's personal Gentoo overlay</description>
+	<homepage>https://github.com/Cycatz/cycatz-overlay</homepage>
+	<owner>
+		<email>thesummernightcat@gmail.com</email>
+		<name>Cycatz</name>
+	</owner>
+	<source type="git">https://github.com/Cycatz/cycatz-overlay.git</source>
+	<feed>https://github.com/Cycatz/cycatz-overlay/commits/master.atom</feed>
+</repo>
+</repositories>
